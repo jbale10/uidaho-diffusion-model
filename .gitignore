@@ -1,4 +1,5 @@
 #Ignore notbook checkpoints 
 .ipynb_checkpoints
 
-
+#Ignore output images
+*.png
